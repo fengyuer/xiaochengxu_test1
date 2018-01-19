@@ -1,0 +1,7 @@
+<view class="container">
+  <image src="/imgs/cat-1.png"></image>
+  <text class="user-info">Hello \n <text style='color:red'>Fiona</text>!</text>
+  <view class="goto">
+    <text>开启小程序之旅</text>
+  </view>
+</view>
